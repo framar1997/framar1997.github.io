@@ -12,4 +12,4 @@ I am a **Postdoctoral Researcher** in Statistics at the [University of Bologna](
 
 My research interests include adaptive experimental designs, Bayesian thinking, and hybrid Bayesian–frequentist methods.
 
-In everyday life, I’m a full-time optimizer, always improving routines from my morning breakfast to grocery runs. When I’m not fine-tuning, you’ll find me caring for my plants, hunting for vintage treasures at flea markets, cooking for loved ones, or working out like a total badass.
+In everyday life, I’m a full-time optimizer, always improving routines from my morning breakfast to grocery runs. When I’m not fine-tuning, you’ll find me caring for my plants, hunting for vintage treasures at flea markets, cooking for loved ones, or hip thrusting my way to the next coffee machine.
