@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Francesco Mariani"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "University of Bologna"
-  uri              : # URL
-  email            : "francesco.mariani20@unibo.it" 
+  uri              : "mailto:francesco.mariani20@unibo.it"
+  email            : #"francesco.mariani20@unibo.it" 
 
   # Academic websites
   academia         : # URL
