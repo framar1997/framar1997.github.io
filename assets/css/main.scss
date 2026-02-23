@@ -42,3 +42,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.author__avatar img {
+  width: 150px;      /* imposta la larghezza desiderata */
+  height: auto;      /* mantiene le proporzioni */
+  border-radius: 50%; /* opzionale: fa diventare l'immagine rotonda */
+  display: block;     /* per aiutare centrare l'immagine */
+  margin: 0 auto;     /* centra l'immagine orizzontalmente */
+}
