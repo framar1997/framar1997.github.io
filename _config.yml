@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fotogit3bis(1).jpg"
+  avatar           : "fotogit3bis.jpg"
   name             : "Francesco Mariani"
   pronouns         : # example: "she/her"  
   bio              : "francesco.mariani20@unibo.it  framariani1997@gmail.com"
