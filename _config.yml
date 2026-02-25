@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name             : "Francesco Mariani"
-  avatar           : "fotogit3bis.jpg"
+  avatar           : "/images/fotogit3bis.jpg"
   pronouns         : # example: "she/her"  
   bio              : "francesco.mariani20@unibo.it  framariani1997@gmail.com"
   location         : #"Earth"
