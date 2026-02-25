@@ -39,26 +39,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* ===============================
-   Custom avatar layout
-   =============================== */
-
-/* aumenta dimensione immagine profilo */
-.author__avatar {
-  width: 260px;
-  height: 260px;
-  margin: 0 auto;
-}
-
-/* evita ritagli strani e migliora proporzioni */
-.author__avatar img {
-  object-fit: cover;
-  object-position: center;
-  border-radius: 12px; /* cambia a 50% se vuoi cerchio */
-}
-
-/* allarga leggermente la sidebar per far respirare l'immagine */
-.sidebar {
-  width: 320px;
-}
