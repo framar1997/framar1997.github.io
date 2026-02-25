@@ -9,7 +9,7 @@ redirect_from:
 
 
 <!-- Qui inserisci la tua immagine -->
-<img src="/images/prova.jpg" alt="Francesco Mariani" style="width:250px; float:right; margin-left:20px; border-radius:12px;">
+<img src="/images/fotofinale.jpeg" alt="Francesco Mariani" style="width:250px; float:right; margin-left:20px; border-radius:12px;">
 
 
 # Hi and welcome !
